@@ -1,0 +1,78 @@
+#img{
+     width: 300px;
+     margin: 0 auto;
+     padding: 10px;
+     border: 5px solid gold;
+     border-radius: 10px;
+}
+#img p{
+     text-align: justify;
+}
+#img img{
+     margin: 0 27px
+}
+
+.solid{
+     border: 3px solid goldenrod;
+     border-radius: 5px;
+     margin: 10px 0px;
+     padding: 10px;
+}
+.double{
+     border: 4px double goldenrod;
+     border-radius: 5px;
+     margin: 10px 0px;
+     padding: 10px;
+}
+.ridge{
+     border: 4px ridge goldenrod;
+     border-radius: 5px;
+     margin: 10px 0px;
+     padding: 10px;
+}
+.groove{
+     border: 4px groove goldenrod;
+     border-radius: 5px;
+     margin: 10px 0px;
+     padding: 10px;
+}
+.dotted{
+     border: 4px dotted goldenrod;
+     border-radius: 5px;
+     margin: 10px 0px;
+     padding: 10px;
+}
+.dashed{
+     border: 4px dashed goldenrod;
+     border-radius: 5px;
+     margin: 10px 0px;
+     padding: 10px;
+}
+.inset{
+     border: 4px inset goldenrod;
+     border-radius: 5px;
+     margin: 10px 0px;
+     padding: 10px;
+}
+.outset{
+     border: 4px outset goldenrod;
+     border-radius: 5px;
+     margin: 10px 0px;
+     padding: 10px;
+}
+
+#shorthand{
+     border: 5px solid tomato;
+     border-radius: 5px;
+     margin: 25px 50px 75px 100px;
+     padding: 5px;
+     text-align: justify;
+}
+#individual{
+     border: 5px solid rgb(201, 40, 12);
+     border-radius: 5px;
+     padding-top: 50px;
+     padding-left: 30px;
+     padding-bottom: 50px;
+     padding-right: 30px;
+}
